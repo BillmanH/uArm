@@ -14,3 +14,4 @@ examples/debug/
 #Notebooks extra bits
 *.pyc
 notebooks/.ipynb_checkpoints/*
+examples/api/single/.ipynb_checkpoints/*
